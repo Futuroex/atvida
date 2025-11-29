@@ -1,1 +1,1 @@
-praticando o js
+Uma coleção de exercícios básicos em JavaScript.
